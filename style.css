@@ -1,0 +1,48 @@
+.btn-primary {
+    background-color: #592c82;
+    border-color: #592c82;
+}
+
+.btn-primary:hover {
+    background-color: #432063;
+    border-color: #432063;
+}
+
+.btn-primary:active {
+    background-color: #4e2673 !important;
+    border-color: #4e2673 !important;
+}
+
+.nav-link {
+    color:#4e2673;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #592c82 !important;
+}
+
+.bg-hero {
+    background-color:hsla(295,0%,100%,1);
+    background-image:
+    radial-gradient(at 60% 28%, hsla(283,97%,88%,1) 0px, transparent 50%),
+    radial-gradient(at 83% 24%, hsla(220,97%,88%,1) 0px, transparent 50%),
+    radial-gradient(at 90% 29%, hsla(65,97%,88%,1) 0px, transparent 50%),
+    radial-gradient(at 76% 73%, hsla(355,71%,88%,1) 0px, transparent 50%),
+    radial-gradient(at 4% 27%, hsla(282,97%,88%,1) 0px, transparent 50%),
+    radial-gradient(at 82% 10%, hsla(154,97%,88%,1) 0px, transparent 50%),
+    radial-gradient(at 2% 91%, hsla(261,97%,88%,1) 0px, transparent 50%);
+}
+
+.purple-heading {
+    color: #592c82 !important;
+}
+
+.imgoverlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+  }
